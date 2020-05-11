@@ -1,0 +1,15 @@
+Para testear con distintos archivos de texto, luego de poner toda la lista de palabras en el archivo hay
+que poner enter. 
+
+Ejemplo:
+
+Hola\n
+daria\n
+como\n
+estas\n
+
+Esto es para que te tome el último enter y no le saque una letra a la última palabra. 
+
+
+
+
